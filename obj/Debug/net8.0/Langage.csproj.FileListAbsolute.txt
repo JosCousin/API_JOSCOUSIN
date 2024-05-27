@@ -1,0 +1,17 @@
+C:\Bureau2.0\Langage\bin\Debug\net8.0\Langage.exe
+C:\Bureau2.0\Langage\bin\Debug\net8.0\Langage.deps.json
+C:\Bureau2.0\Langage\bin\Debug\net8.0\Langage.runtimeconfig.json
+C:\Bureau2.0\Langage\bin\Debug\net8.0\Langage.dll
+C:\Bureau2.0\Langage\bin\Debug\net8.0\Langage.pdb
+C:\Bureau2.0\Langage\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.csproj.AssemblyReference.cache
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.AssemblyInfoInputs.cache
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.AssemblyInfo.cs
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.csproj.CoreCompileInputs.cache
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.csproj.Up2Date
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.dll
+C:\Bureau2.0\Langage\obj\Debug\net8.0\refint\Langage.dll
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.pdb
+C:\Bureau2.0\Langage\obj\Debug\net8.0\Langage.genruntimeconfig.cache
+C:\Bureau2.0\Langage\obj\Debug\net8.0\ref\Langage.dll
